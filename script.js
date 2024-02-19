@@ -41,7 +41,6 @@ createBtn.addEventListener('click', function () {
         inpName.value = "";
         inpSection.value = "";
 
-        // Hiding the form
         document.querySelector('.form').style.display = 'none';
     }
 });
